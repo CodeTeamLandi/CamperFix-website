@@ -87,4 +87,13 @@
       "copyright": "Alle Rechte vorbehalten. Mit ❤️ für europäische Camper gemacht."
     }
   }
+  },
+  "waitlist": {
+    "placeholder": "E-Mail eingeben",
+    "submit": "Zur Warteliste",
+    "sending": "Senden...",
+    "sent": "✓ Hinzugefügt!",
+    "success": "Sie sind auf der Liste! Wir benachrichtigen Sie beim Start.",
+    "error": "Ups! Bitte versuchen Sie es erneut."
+  }
 }

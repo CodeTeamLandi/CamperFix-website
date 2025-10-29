@@ -87,4 +87,13 @@
       "copyright": "Alle rechten voorbehouden. Gemaakt met ❤️ voor Europese camperaars."
     }
   }
+  },
+  "waitlist": {
+    "placeholder": "Voer je e-mail in",
+    "submit": "Schrijf je in",
+    "sending": "Verzenden...",
+    "sent": "✓ Ingeschreven!",
+    "success": "Je staat op de lijst! We laten het je weten bij de lancering.",
+    "error": "Oeps! Probeer het opnieuw."
+  }
 }

@@ -16,25 +16,25 @@
     },
     "features": {
       "title": "Why Choose CamperFix?",
-      "subtitle": "Technical excellence meets European camping culture",
+      "subtitle": "Professional support when you need it most",
       "feature1": {
-        "title": "Rapid Response",
-        "description": "Emergency support within 30 minutes. Whether you're touring the Alps or parked on the coast, expert help is just a tap away."
+        "title": "Fast Response",
+        "description": "Get help quickly when problems arise. Expert assistance is available wherever you travel."
       },
       "feature2": {
-        "title": "Expert Technicians",
-        "description": "AI-enhanced diagnostics backed by experienced camper specialists. Deep knowledge of European motorhome systems and regulations."
+        "title": "Expert Support",
+        "description": "Professional guidance from experienced specialists who understand your vehicle and your needs."
       },
       "feature3": {
-        "title": "Complete Solutions",
-        "description": "From diagnosis to local workshop referrals across Europe. Parts sourcing, repair guidance, and warranty advice all in one place."
+        "title": "Complete Coverage",
+        "description": "Comprehensive assistance for all your technical needs, wherever your journey takes you."
       }
     },
     "value": {
-      "badge": "Built for European Campers",
-      "title": "Your Technical Companion on Every European Adventure",
-      "text1": "CamperFix connects motorhome and caravan owners with expert technical support throughout Europe. Our platform combines cutting-edge AI diagnostics with experienced technicians who understand the unique challenges of European camping.",
-      "text2": "Electrical faults in Germany? Heating issues in Scandinavia? Water system problems in France? CamperFix provides instant, reliable technical assistance wherever your journey takes you.",
+      "badge": "Built for Campers",
+      "title": "Your Support System on the Road",
+      "text1": "CamperFix provides professional technical assistance for motorhome and caravan owners. We're here to help you solve problems and keep your adventures on track.",
+      "text2": "Whether you're dealing with unexpected issues or need quick advice, CamperFix is designed to give you peace of mind on every journey.",
       "check1": {
         "title": "Brand Agnostic",
         "subtitle": "All makes & models"
@@ -86,5 +86,13 @@
       "faq": "FAQ",
       "copyright": "All rights reserved. Made with ❤️ for European campers."
     }
+  },
+  "waitlist": {
+    "placeholder": "Enter your email",
+    "submit": "Join Waitlist",
+    "sending": "Sending...",
+    "sent": "✓ Joined!",
+    "success": "You're on the list! We'll notify you at launch.",
+    "error": "Oops! Please try again."
   }
 }

@@ -87,4 +87,13 @@
       "copyright": "Tutti i diritti riservati. Fatto con ❤️ per i camperisti europei."
     }
   }
+  },
+  "waitlist": {
+    "placeholder": "Inserisci la tua email",
+    "submit": "Iscriviti",
+    "sending": "Invio...",
+    "sent": "✓ Iscritto!",
+    "success": "Sei nella lista! Ti avviseremo al lancio.",
+    "error": "Ops! Riprova per favore."
+  }
 }

@@ -87,4 +87,13 @@
       "copyright": "Todos los derechos reservados. Hecho con ❤️ para autocaravanistas europeos."
     }
   }
+  },
+  "waitlist": {
+    "placeholder": "Introduce tu email",
+    "submit": "Unirse a la lista",
+    "sending": "Enviando...",
+    "sent": "✓ ¡Unido!",
+    "success": "¡Estás en la lista! Te avisaremos en el lanzamiento.",
+    "error": "¡Ups! Inténtalo de nuevo."
+  }
 }
