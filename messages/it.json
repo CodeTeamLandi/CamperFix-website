@@ -2,89 +2,89 @@
   "nav": {
     "home": "Home",
     "privacy": "Privacy",
-    "terms": "Terms",
-    "support": "Support"
+    "terms": "Termini",
+    "support": "Supporto"
   },
   "home": {
     "hero": {
-      "badge": "🚐 Your Trusted Companion on Every Journey",
-      "title1": "Expert Technical Support",
-      "title2": "For Your Camper",
-      "subtitle": "Professional, brand-agnostic assistance for motorhomes, campervans, and caravans across Europe. Expert help whenever and wherever you need it.",
-      "cta1": "Discover Features",
-      "cta2": "Launching Soon"
+      "badge": "🚐 Il Tuo Compagno Fidato in Ogni Viaggio",
+      "title1": "Assistenza Tecnica Esperta",
+      "title2": "Per il Tuo Camper",
+      "subtitle": "Assistenza professionale e indipendente per camper, furgonati e roulotte in Europa. Aiuto esperto quando e dove ne hai bisogno.",
+      "cta1": "Scopri le Funzionalità",
+      "cta2": "In Arrivo Presto"
     },
     "features": {
-      "title": "Why Choose CamperFix?",
-      "subtitle": "Technical excellence meets European camping culture",
+      "title": "Perché Scegliere CamperFix?",
+      "subtitle": "Eccellenza tecnica incontra la cultura del campeggio europea",
       "feature1": {
-        "title": "Rapid Response",
-        "description": "Emergency support within 30 minutes. Whether you're touring the Alps or parked on the coast, expert help is just a tap away."
+        "title": "Risposta Rapida",
+        "description": "Supporto d'emergenza entro 30 minuti. Che tu stia attraversando le Alpi o parcheggiato sulla costa, l'aiuto esperto è a portata di mano."
       },
       "feature2": {
-        "title": "Expert Technicians",
-        "description": "AI-enhanced diagnostics backed by experienced camper specialists. Deep knowledge of European motorhome systems and regulations."
+        "title": "Tecnici Esperti",
+        "description": "Diagnostica potenziata dall'IA supportata da specialisti esperti di camper. Conoscenza approfondita dei sistemi e delle normative europee per camper."
       },
       "feature3": {
-        "title": "Complete Solutions",
-        "description": "From diagnosis to local workshop referrals across Europe. Parts sourcing, repair guidance, and warranty advice all in one place."
+        "title": "Soluzioni Complete",
+        "description": "Dalla diagnosi ai riferimenti di officine locali in tutta Europa. Ricerca pezzi, guida alle riparazioni e consulenza sulla garanzia tutto in un unico posto."
       }
     },
     "value": {
-      "badge": "Built for European Campers",
-      "title": "Your Technical Companion on Every European Adventure",
-      "text1": "CamperFix connects motorhome and caravan owners with expert technical support throughout Europe. Our platform combines cutting-edge AI diagnostics with experienced technicians who understand the unique challenges of European camping.",
-      "text2": "Electrical faults in Germany? Heating issues in Scandinavia? Water system problems in France? CamperFix provides instant, reliable technical assistance wherever your journey takes you.",
+      "badge": "Costruito per i Camperisti Europei",
+      "title": "Il Tuo Compagno Tecnico in Ogni Avventura Europea",
+      "text1": "CamperFix collega i proprietari di camper e roulotte con assistenza tecnica esperta in tutta Europa. La nostra piattaforma combina diagnostica AI all'avanguardia con tecnici esperti che comprendono le sfide uniche del campeggio europeo.",
+      "text2": "Guasti elettrici in Germania? Problemi di riscaldamento in Scandinavia? Problemi al sistema idrico in Francia? CamperFix fornisce assistenza tecnica immediata e affidabile ovunque ti porti il tuo viaggio.",
       "check1": {
-        "title": "Brand Agnostic",
-        "subtitle": "All makes & models"
+        "title": "Indipendente dalla Marca",
+        "subtitle": "Tutte le marche e modelli"
       },
       "check2": {
-        "title": "24/7 Available",
-        "subtitle": "Always there for you"
+        "title": "Disponibile 24/7",
+        "subtitle": "Sempre al tuo fianco"
       },
       "check3": {
-        "title": "Europe-Wide",
-        "subtitle": "Coverage across the continent"
+        "title": "In Tutta Europa",
+        "subtitle": "Copertura in tutto il continente"
       },
       "check4": {
-        "title": "Multi-lingual",
-        "subtitle": "Support in your language"
+        "title": "Multilingue",
+        "subtitle": "Supporto nella tua lingua"
       },
       "systems": {
         "electrical": {
-          "title": "Electrical Systems",
-          "subtitle": "Solar, batteries, inverters"
+          "title": "Sistemi Elettrici",
+          "subtitle": "Solare, batterie, inverter"
         },
         "climate": {
-          "title": "Climate Control",
-          "subtitle": "Heating, cooling, ventilation"
+          "title": "Controllo Climatico",
+          "subtitle": "Riscaldamento, raffreddamento, ventilazione"
         },
         "water": {
-          "title": "Water Systems",
-          "subtitle": "Plumbing, pumps, tanks"
+          "title": "Sistemi Idrici",
+          "subtitle": "Idraulica, pompe, serbatoi"
         },
         "mechanical": {
-          "title": "Mechanical",
-          "subtitle": "Engine, transmission, brakes"
+          "title": "Meccanica",
+          "subtitle": "Motore, trasmissione, freni"
         }
       }
     },
     "download": {
-      "badge": "Coming Very Soon",
-      "title": "Ready to Hit the Road?",
-      "description": "CamperFix will be available on iOS and Android. Be among the first to experience stress-free camping across Europe.",
+      "badge": "In Arrivo Molto Presto",
+      "title": "Pronto a Metterti in Viaggio?",
+      "description": "CamperFix sarà disponibile su iOS e Android. Sii tra i primi a sperimentare un campeggio senza stress in tutta Europa.",
       "appStore": "App Store",
       "googlePlay": "Google Play",
-      "waitlist": "Join our waiting list and get notified at launch"
+      "waitlist": "Iscriviti alla nostra lista d'attesa e ricevi una notifica al lancio"
     },
     "footer": {
-      "description": "Professional technical support for campers, motorhomes, and caravans across Europe.",
-      "legal": "Legal",
-      "support": "Support",
-      "contact": "Contact Us",
+      "description": "Assistenza tecnica professionale per camper, furgonati e roulotte in tutta Europa.",
+      "legal": "Legale",
+      "support": "Supporto",
+      "contact": "Contattaci",
       "faq": "FAQ",
-      "copyright": "All rights reserved. Made with ❤️ for European campers."
+      "copyright": "Tutti i diritti riservati. Fatto con ❤️ per i camperisti europei."
     }
   }
 }
