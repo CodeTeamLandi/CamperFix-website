@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import LanguageSwitcher from './LanguageSwitcher';
 
 export default function Navigation() {
@@ -8,36 +9,41 @@ export default function Navigation() {
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <Link href="/" className="flex items-center group">
-              <span className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent group-hover:from-blue-700 group-hover:to-indigo-700 transition-all">
-                CamperFix
-              </span>
+              <Image
+                src="/logo.png"
+                alt="CamperFix Logo"
+                width={140}
+                height={32}
+                className="h-8 w-auto transition-transform group-hover:scale-105"
+                priority
+              />
             </Link>
           </div>
           <div className="flex items-center space-x-6">
             <Link
               href="/"
-              className="text-gray-700 hover:text-blue-600 transition-colors font-medium relative group hidden sm:block"
+              className="text-gray-700 hover:text-yellow-500 transition-colors font-medium relative group hidden sm:block"
             >
               Home
-              <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-blue-600 group-hover:w-full transition-all duration-300"></span>
+              <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-yellow-500 group-hover:w-full transition-all duration-300"></span>
             </Link>
             <Link
               href="/privacy"
-              className="text-gray-700 hover:text-blue-600 transition-colors font-medium relative group hidden sm:block"
+              className="text-gray-700 hover:text-yellow-500 transition-colors font-medium relative group hidden sm:block"
             >
               Privacy
-              <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-blue-600 group-hover:w-full transition-all duration-300"></span>
+              <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-yellow-500 group-hover:w-full transition-all duration-300"></span>
             </Link>
             <Link
               href="/terms"
-              className="text-gray-700 hover:text-blue-600 transition-colors font-medium relative group hidden sm:block"
+              className="text-gray-700 hover:text-yellow-500 transition-colors font-medium relative group hidden sm:block"
             >
               Terms
-              <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-blue-600 group-hover:w-full transition-all duration-300"></span>
+              <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-yellow-500 group-hover:w-full transition-all duration-300"></span>
             </Link>
             <Link
               href="/support"
-              className="px-4 py-2 bg-gradient-to-r from-blue-600 to-indigo-600 text-white rounded-lg font-medium hover:from-blue-700 hover:to-indigo-700 transition-all shadow-md hover:shadow-lg"
+              className="px-4 py-2 bg-gradient-to-r from-yellow-400 to-yellow-500 text-gray-900 rounded-lg font-medium hover:from-yellow-500 hover:to-yellow-600 transition-all shadow-md hover:shadow-lg"
             >
               Support
             </Link>

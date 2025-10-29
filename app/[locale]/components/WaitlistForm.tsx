@@ -46,12 +46,12 @@ export default function WaitlistForm() {
           placeholder={t('placeholder')}
           required
           disabled={status === 'loading' || status === 'success'}
-          className="flex-1 px-6 py-4 rounded-xl bg-white/10 backdrop-blur-sm border-2 border-white/30 text-white placeholder-blue-200 focus:outline-none focus:border-white/50 focus:bg-white/20 transition-all disabled:opacity-50"
+          className="flex-1 px-6 py-4 rounded-xl bg-white/10 backdrop-blur-sm border-2 border-yellow-500/30 text-white placeholder-gray-300 focus:outline-none focus:border-yellow-500/50 focus:bg-white/20 transition-all disabled:opacity-50"
         />
         <button
           type="submit"
           disabled={status === 'loading' || status === 'success'}
-          className="px-8 py-4 bg-white text-blue-700 rounded-xl font-semibold hover:bg-blue-50 transition-all duration-300 shadow-lg hover:shadow-xl disabled:opacity-50 disabled:cursor-not-allowed whitespace-nowrap"
+          className="px-8 py-4 bg-gradient-to-r from-yellow-400 to-yellow-500 text-gray-900 rounded-xl font-semibold hover:from-yellow-500 hover:to-yellow-600 transition-all duration-300 shadow-lg hover:shadow-xl disabled:opacity-50 disabled:cursor-not-allowed whitespace-nowrap"
         >
           {status === 'loading' ? t('sending') : status === 'success' ? t('sent') : t('submit')}
         </button>

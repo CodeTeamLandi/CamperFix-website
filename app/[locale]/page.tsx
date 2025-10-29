@@ -8,35 +8,35 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-gradient-to-b from-white to-gray-50">
       {/* Hero Section with Gradient */}
-      <section className="relative overflow-hidden bg-gradient-to-br from-blue-600 via-blue-700 to-indigo-800 text-white py-24 sm:py-32">
+      <section className="relative overflow-hidden bg-gradient-to-br from-gray-900 via-black to-gray-800 text-white py-24 sm:py-32">
         <div className="absolute inset-0 bg-[url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIHZpZXdCb3g9IjAgMCA2MCA2MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjxnIGZpbGw9IiNmZmYiIGZpbGwtb3BhY2l0eT0iMC4wNSI+PHBhdGggZD0iTTM2IDEzNGg1djVoLTV6bTAtNWg1djVoLTV6Ii8+PC9nPjwvZz48L3N2Zz4=')] opacity-20"></div>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
           <div className="text-center">
-            <div className="inline-block mb-4 px-4 py-2 bg-white/10 backdrop-blur-sm rounded-full text-sm font-medium border border-white/20">
+            <div className="inline-block mb-4 px-4 py-2 bg-yellow-500/20 backdrop-blur-sm rounded-full text-sm font-medium border border-yellow-500/30">
               {t('hero.badge')}
             </div>
             <h1 className="text-5xl sm:text-6xl lg:text-7xl font-extrabold mb-6 leading-tight">
               {t('hero.title1')}
-              <span className="block bg-gradient-to-r from-blue-200 to-cyan-200 bg-clip-text text-transparent">
+              <span className="block bg-gradient-to-r from-yellow-400 to-yellow-500 bg-clip-text text-transparent">
                 {t('hero.title2')}
               </span>
             </h1>
-            <p className="text-xl sm:text-2xl mb-10 max-w-3xl mx-auto text-blue-50 leading-relaxed">
+            <p className="text-xl sm:text-2xl mb-10 max-w-3xl mx-auto text-gray-300 leading-relaxed">
               {t('hero.subtitle')}
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
                 href="#features"
-                className="group bg-white text-blue-700 px-8 py-4 rounded-xl font-semibold hover:bg-blue-50 transition-all duration-300 shadow-lg hover:shadow-xl hover:scale-105 flex items-center justify-center gap-2"
+                className="group bg-gradient-to-r from-yellow-400 to-yellow-500 text-gray-900 px-8 py-4 rounded-xl font-semibold hover:from-yellow-500 hover:to-yellow-600 transition-all duration-300 shadow-lg hover:shadow-xl hover:scale-105 flex items-center justify-center gap-2"
               >
                 {t('hero.cta1')}
                 <span className="group-hover:translate-x-1 transition-transform">→</span>
               </a>
               <a
                 href="#download"
-                className="group bg-blue-500/20 backdrop-blur-sm text-white px-8 py-4 rounded-xl font-semibold hover:bg-blue-500/30 transition-all duration-300 border-2 border-white/30 flex items-center justify-center gap-2"
+                className="group bg-white/10 backdrop-blur-sm text-white px-8 py-4 rounded-xl font-semibold hover:bg-white/20 transition-all duration-300 border-2 border-yellow-500/50 flex items-center justify-center gap-2"
               >
-                <span className="animate-pulse">●</span>
+                <span className="animate-pulse text-yellow-500">●</span>
                 {t('hero.cta2')}
               </a>
             </div>
@@ -49,7 +49,7 @@ export default function Home() {
       <section id="features" className="py-20 sm:py-24">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl sm:text-5xl font-bold mb-4 bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
+            <h2 className="text-4xl sm:text-5xl font-bold mb-4 bg-gradient-to-r from-gray-900 to-black bg-clip-text text-transparent">
               {t('features.title')}
             </h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
@@ -59,7 +59,7 @@ export default function Home() {
 
           <div className="grid md:grid-cols-3 gap-8 lg:gap-10">
             {/* Feature 1 - Fast Response */}
-            <div className="group bg-white p-8 rounded-2xl shadow-md hover:shadow-2xl transition-all duration-300 border border-gray-100 hover:border-blue-200 hover:-translate-y-2">
+            <div className="group bg-white p-8 rounded-2xl shadow-md hover:shadow-2xl transition-all duration-300 border border-gray-100 hover:border-yellow-400 hover:-translate-y-2">
               <div className="w-20 h-20 mb-6 group-hover:scale-110 transition-transform">
                 <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <circle cx="32" cy="32" r="30" fill="url(#speedGradient)"/>
@@ -68,8 +68,8 @@ export default function Home() {
                   <path d="M32 24l4 8h-8l4-8z" fill="url(#speedGradient)"/>
                   <defs>
                     <linearGradient id="speedGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-                      <stop offset="0%" stopColor="#3B82F6"/>
-                      <stop offset="100%" stopColor="#1D4ED8"/>
+                      <stop offset="0%" stopColor="#FBBF24"/>
+                      <stop offset="100%" stopColor="#F59E0B"/>
                     </linearGradient>
                   </defs>
                 </svg>
@@ -81,7 +81,7 @@ export default function Home() {
             </div>
 
             {/* Feature 2 - Expert Support */}
-            <div className="group bg-white p-8 rounded-2xl shadow-md hover:shadow-2xl transition-all duration-300 border border-gray-100 hover:border-blue-200 hover:-translate-y-2">
+            <div className="group bg-white p-8 rounded-2xl shadow-md hover:shadow-2xl transition-all duration-300 border border-gray-100 hover:border-yellow-400 hover:-translate-y-2">
               <div className="w-20 h-20 mb-6 group-hover:scale-110 transition-transform">
                 <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <circle cx="32" cy="32" r="30" fill="url(#expertGradient)"/>
@@ -92,8 +92,8 @@ export default function Home() {
                   <path d="M24 48h16M26 52h12" stroke="white" strokeWidth="2" strokeLinecap="round"/>
                   <defs>
                     <linearGradient id="expertGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-                      <stop offset="0%" stopColor="#6366F1"/>
-                      <stop offset="100%" stopColor="#4F46E5"/>
+                      <stop offset="0%" stopColor="#F59E0B"/>
+                      <stop offset="100%" stopColor="#D97706"/>
                     </linearGradient>
                   </defs>
                 </svg>
@@ -105,7 +105,7 @@ export default function Home() {
             </div>
 
             {/* Feature 3 - Complete Coverage */}
-            <div className="group bg-white p-8 rounded-2xl shadow-md hover:shadow-2xl transition-all duration-300 border border-gray-100 hover:border-blue-200 hover:-translate-y-2">
+            <div className="group bg-white p-8 rounded-2xl shadow-md hover:shadow-2xl transition-all duration-300 border border-gray-100 hover:border-yellow-400 hover:-translate-y-2">
               <div className="w-20 h-20 mb-6 group-hover:scale-110 transition-transform">
                 <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <circle cx="32" cy="32" r="30" fill="url(#coverageGradient)"/>
@@ -121,8 +121,8 @@ export default function Home() {
                   <circle cx="48" cy="32" r="2.5" fill="white"/>
                   <defs>
                     <linearGradient id="coverageGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-                      <stop offset="0%" stopColor="#06B6D4"/>
-                      <stop offset="100%" stopColor="#0891B2"/>
+                      <stop offset="0%" stopColor="#EAB308"/>
+                      <stop offset="100%" stopColor="#CA8A04"/>
                     </linearGradient>
                   </defs>
                 </svg>
@@ -137,11 +137,11 @@ export default function Home() {
       </section>
 
       {/* Value Proposition Section */}
-      <section className="py-20 bg-gradient-to-br from-blue-50 to-indigo-50">
+      <section className="py-20 bg-gradient-to-br from-yellow-50 to-orange-50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
-              <div className="inline-block mb-4 px-4 py-2 bg-blue-100 rounded-full text-sm font-medium text-blue-700">
+              <div className="inline-block mb-4 px-4 py-2 bg-yellow-100 rounded-full text-sm font-medium text-yellow-800">
                 {t('value.badge')}
               </div>
               <h2 className="text-4xl sm:text-5xl font-bold mb-6 text-gray-900 leading-tight">
@@ -187,7 +187,7 @@ export default function Home() {
             </div>
 
             <div className="relative">
-              <div className="absolute inset-0 bg-gradient-to-br from-blue-400 to-indigo-500 rounded-3xl transform rotate-3 opacity-10"></div>
+              <div className="absolute inset-0 bg-gradient-to-br from-yellow-400 to-orange-500 rounded-3xl transform rotate-3 opacity-10"></div>
               <div className="relative bg-white p-12 rounded-3xl shadow-2xl border border-gray-100">
                 <div className="flex justify-center mb-6">
                   <svg className="w-40 h-40" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -198,7 +198,7 @@ export default function Home() {
                     <circle cx="150" cy="50" r="15" fill="#FCD34D" opacity="0.8"/>
 
                     {/* Mountains/Hills */}
-                    <path d="M0 120 Q50 100 100 120 T200 120 L200 200 L0 200 Z" fill="#93C5FD" opacity="0.3"/>
+                    <path d="M0 120 Q50 100 100 120 T200 120 L200 200 L0 200 Z" fill="#FDE68A" opacity="0.3"/>
 
                     {/* Motorhome body */}
                     <rect x="40" y="100" width="120" height="50" rx="8" fill="url(#camperGradient)"/>
@@ -207,12 +207,12 @@ export default function Home() {
                     <path d="M40 100 L40 85 Q40 75 50 75 L70 75 Q80 75 80 85 L80 100 Z" fill="url(#camperGradient)"/>
 
                     {/* Windows */}
-                    <rect x="50" y="80" width="18" height="12" rx="2" fill="#E0F2FE"/>
-                    <rect x="90" y="110" width="20" height="20" rx="3" fill="#E0F2FE"/>
-                    <rect x="120" y="110" width="20" height="20" rx="3" fill="#E0F2FE"/>
+                    <rect x="50" y="80" width="18" height="12" rx="2" fill="#FEF3C7"/>
+                    <rect x="90" y="110" width="20" height="20" rx="3" fill="#FEF3C7"/>
+                    <rect x="120" y="110" width="20" height="20" rx="3" fill="#FEF3C7"/>
 
                     {/* Door */}
-                    <rect x="145" y="115" width="12" height="30" rx="2" fill="#1E40AF" opacity="0.3"/>
+                    <rect x="145" y="115" width="12" height="30" rx="2" fill="#78350F" opacity="0.3"/>
                     <circle cx="148" cy="130" r="1.5" fill="#FCD34D"/>
 
                     {/* Wheels */}
@@ -225,20 +225,20 @@ export default function Home() {
                     <circle cx="130" cy="155" r="4" fill="#9CA3AF"/>
 
                     {/* Details */}
-                    <path d="M160 120 L165 120 M160 125 L165 125 M160 130 L165 130" stroke="#1E40AF" strokeWidth="1.5" opacity="0.3"/>
+                    <path d="M160 120 L165 120 M160 125 L165 125 M160 130 L165 130" stroke="#78350F" strokeWidth="1.5" opacity="0.3"/>
 
                     {/* Headlights */}
                     <circle cx="45" cy="95" r="3" fill="#FCD34D" opacity="0.7"/>
 
                     <defs>
                       <linearGradient id="skyGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-                        <stop offset="0%" stopColor="#DBEAFE"/>
-                        <stop offset="100%" stopColor="#BFDBFE"/>
+                        <stop offset="0%" stopColor="#FEF3C7"/>
+                        <stop offset="100%" stopColor="#FDE68A"/>
                       </linearGradient>
                       <linearGradient id="camperGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-                        <stop offset="0%" stopColor="#3B82F6"/>
-                        <stop offset="50%" stopColor="#2563EB"/>
-                        <stop offset="100%" stopColor="#1D4ED8"/>
+                        <stop offset="0%" stopColor="#1F2937"/>
+                        <stop offset="50%" stopColor="#111827"/>
+                        <stop offset="100%" stopColor="#030712"/>
                       </linearGradient>
                     </defs>
                   </svg>
@@ -258,14 +258,14 @@ export default function Home() {
       {/* Download Section */}
       <section id="download" className="py-20">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="relative bg-gradient-to-br from-blue-600 via-indigo-600 to-purple-700 rounded-3xl p-12 overflow-hidden shadow-2xl">
+          <div className="relative bg-gradient-to-br from-gray-900 via-black to-gray-800 rounded-3xl p-12 overflow-hidden shadow-2xl">
             <div className="absolute inset-0 bg-[url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIHZpZXdCb3g9IjAgMCA2MCA2MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjxnIGZpbGw9IiNmZmYiIGZpbGwtb3BhY2l0eT0iMC4wNSI+PHBhdGggZD0iTTM2IDE5NGg1djVoLTV6bTAtNWg1djVoLTV6Ii8+PC9nPjwvZz48L3N2Zz4=')] opacity-30"></div>
             <div className="relative z-10 text-center text-white">
-              <div className="inline-block mb-4 px-4 py-2 bg-white/20 backdrop-blur-sm rounded-full text-sm font-medium border border-white/30">
+              <div className="inline-block mb-4 px-4 py-2 bg-yellow-500/20 backdrop-blur-sm rounded-full text-sm font-medium border border-yellow-500/30">
                 {t('download.badge')}
               </div>
               <h2 className="text-4xl sm:text-5xl font-bold mb-4">{t('download.title')}</h2>
-              <p className="text-xl mb-8 text-blue-100 max-w-2xl mx-auto">
+              <p className="text-xl mb-8 text-gray-300 max-w-2xl mx-auto">
                 {t('download.description')}
               </p>
 
