@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Terms of Service - CamperFix',
-  description: 'CamperFix Terms of Service - Agreement for using our RV technical support services',
+  description: 'CamperFix Terms of Service - Agreement for using our motorhome technical support services',
 };
 
 export default function TermsOfService() {
@@ -23,12 +23,12 @@ export default function TermsOfService() {
           <section className="mb-8">
             <h2 className="text-2xl font-semibold mb-4">2. Description of Service</h2>
             <p className="text-gray-700 leading-relaxed mb-4">
-              CamperFix provides technical support services for RV and camper owners, connecting users with expert technicians through our mobile application. Our services include:
+              CamperFix provides technical support services for motorhome and caravan owners, connecting users with expert technicians through our mobile application. Our services include:
             </p>
             <ul className="list-disc list-inside text-gray-700 space-y-2">
               <li>Remote technical diagnostics and troubleshooting</li>
               <li>AI-powered issue analysis and recommendations</li>
-              <li>Connection with qualified RV technicians</li>
+              <li>Connection with qualified camper specialists</li>
               <li>Access to technical documentation and guides</li>
               <li>Case management and support tracking</li>
             </ul>
@@ -43,7 +43,7 @@ export default function TermsOfService() {
 
             <h3 className="text-xl font-semibold mb-2">3.2 Accurate Information</h3>
             <p className="text-gray-700 mb-4">
-              You agree to provide accurate, current, and complete information about your RV and technical issues. Inaccurate information may result in inappropriate advice or delayed support.
+              You agree to provide accurate, current, and complete information about your motorhome and technical issues. Inaccurate information may result in inappropriate advice or delayed support.
             </p>
 
             <h3 className="text-xl font-semibold mb-2">3.3 Prohibited Activities</h3>

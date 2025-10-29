@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "CamperFix - Expert RV Technical Support",
-  description: "Professional, brand-agnostic technical support for RV and camper owners. Get expert help when you need it most.",
+  title: "CamperFix - Expert Technical Support for Campers & Motorhomes",
+  description: "Professional technical support for motorhomes, campervans, and caravans across Europe. Expert help whenever and wherever you need it.",
 };
 
 export default function RootLayout({

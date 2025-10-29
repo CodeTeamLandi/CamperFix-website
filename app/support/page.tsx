@@ -63,16 +63,16 @@ export default function Support() {
               </div>
 
               <div className="border-b border-gray-200 pb-6">
-                <h3 className="text-lg font-semibold mb-2">What types of RVs does CamperFix support?</h3>
+                <h3 className="text-lg font-semibold mb-2">What types of vehicles does CamperFix support?</h3>
                 <p className="text-gray-700">
-                  CamperFix provides brand-agnostic support for all types of RVs, including motorhomes, travel trailers, fifth wheels, truck campers, and camper vans. Our experts have experience with various makes and models.
+                  CamperFix provides brand-agnostic support for all types of motorhomes, campervans, and caravans. Our experts have experience with various makes and models.
                 </p>
               </div>
 
               <div className="border-b border-gray-200 pb-6">
                 <h3 className="text-lg font-semibold mb-2">How does the 30-minute SOS support work?</h3>
                 <p className="text-gray-700">
-                  Once launched, our SOS feature will connect you with an RV technician within 30 minutes for urgent technical issues. This service will be available through a premium subscription or pay-per-use model.
+                  Once launched, our SOS feature will connect you with an camper specialist within 30 minutes for urgent technical issues. This service will be available through a premium subscription or pay-per-use model.
                 </p>
               </div>
 
@@ -91,9 +91,9 @@ export default function Support() {
               </div>
 
               <div className="border-b border-gray-200 pb-6">
-                <h3 className="text-lg font-semibold mb-2">Is CamperFix available internationally?</h3>
+                <h3 className="text-lg font-semibold mb-2">Is CamperFix available across Europe?</h3>
                 <p className="text-gray-700">
-                  At launch, CamperFix will primarily serve North American users. We plan to expand internationally based on demand and technician availability in different regions.
+                  CamperFix is designed specifically for the European market, providing support across the continent. We understand European vehicle standards, regulations, and the unique challenges of touring Europe.
                 </p>
               </div>
 

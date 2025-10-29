@@ -25,7 +25,7 @@ export default function PrivacyPolicy() {
             <h3 className="text-xl font-semibold mb-2">2.1 Information You Provide</h3>
             <ul className="list-disc list-inside text-gray-700 mb-4 space-y-2">
               <li>Account information (name, email address, phone number)</li>
-              <li>RV profile information (make, model, year, VIN)</li>
+              <li>vehicle profile information (make, model, year, VIN)</li>
               <li>Technical support requests and communications</li>
               <li>Photos and videos you submit for technical support</li>
               <li>Payment information (processed securely through third-party providers)</li>
@@ -45,7 +45,7 @@ export default function PrivacyPolicy() {
             <p className="text-gray-700 mb-2">We use collected information to:</p>
             <ul className="list-disc list-inside text-gray-700 space-y-2">
               <li>Provide technical support services</li>
-              <li>Match you with appropriate RV technicians</li>
+              <li>Match you with appropriate camper specialists</li>
               <li>Process payments and maintain account security</li>
               <li>Improve our AI-powered diagnostic tools</li>
               <li>Communicate service updates and support responses</li>
@@ -58,7 +58,7 @@ export default function PrivacyPolicy() {
             <h2 className="text-2xl font-semibold mb-4">4. Information Sharing</h2>
             <p className="text-gray-700 mb-2">We may share your information with:</p>
             <ul className="list-disc list-inside text-gray-700 space-y-2">
-              <li><strong>RV Technicians:</strong> Technical details necessary to provide support</li>
+              <li><strong>motorhome Technicians:</strong> Technical details necessary to provide support</li>
               <li><strong>Service Providers:</strong> Third-party vendors who assist our operations (cloud hosting, payment processing, analytics)</li>
               <li><strong>Legal Requirements:</strong> When required by law or to protect rights and safety</li>
               <li><strong>Business Transfers:</strong> In connection with mergers, acquisitions, or asset sales</li>
