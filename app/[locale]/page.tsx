@@ -58,11 +58,20 @@ export default function Home() {
           </div>
 
           <div className="grid md:grid-cols-3 gap-8 lg:gap-10">
-            {/* Feature 1 */}
+            {/* Feature 1 - Fast Response */}
             <div className="group bg-white p-8 rounded-2xl shadow-md hover:shadow-2xl transition-all duration-300 border border-gray-100 hover:border-blue-200 hover:-translate-y-2">
-              <div className="w-14 h-14 bg-gradient-to-br from-blue-500 to-blue-600 rounded-xl flex items-center justify-center mb-6 shadow-lg group-hover:scale-110 transition-transform">
-                <svg className="w-7 h-7 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
-                  <path strokeLinecap="round" strokeLinejoin="round" d="M13 10V3L4 14h7v7l9-11h-7z" />
+              <div className="w-20 h-20 mb-6 group-hover:scale-110 transition-transform">
+                <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <circle cx="32" cy="32" r="30" fill="url(#speedGradient)"/>
+                  <path d="M32 12v8M32 44v8M12 32h8M44 32h8M20.686 20.686l5.657 5.657M37.657 37.657l5.657 5.657M20.686 43.314l5.657-5.657M37.657 26.343l5.657-5.657" stroke="white" strokeWidth="3" strokeLinecap="round"/>
+                  <circle cx="32" cy="32" r="8" fill="white"/>
+                  <path d="M32 24l4 8h-8l4-8z" fill="url(#speedGradient)"/>
+                  <defs>
+                    <linearGradient id="speedGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                      <stop offset="0%" stopColor="#3B82F6"/>
+                      <stop offset="100%" stopColor="#1D4ED8"/>
+                    </linearGradient>
+                  </defs>
                 </svg>
               </div>
               <h3 className="text-2xl font-bold mb-3 text-gray-900">{t('features.feature1.title')}</h3>
@@ -71,12 +80,22 @@ export default function Home() {
               </p>
             </div>
 
-            {/* Feature 2 */}
+            {/* Feature 2 - Expert Support */}
             <div className="group bg-white p-8 rounded-2xl shadow-md hover:shadow-2xl transition-all duration-300 border border-gray-100 hover:border-blue-200 hover:-translate-y-2">
-              <div className="w-14 h-14 bg-gradient-to-br from-indigo-500 to-indigo-600 rounded-xl flex items-center justify-center mb-6 shadow-lg group-hover:scale-110 transition-transform">
-                <svg className="w-7 h-7 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
-                  <path strokeLinecap="round" strokeLinejoin="round" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z" />
-                  <path strokeLinecap="round" strokeLinejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+              <div className="w-20 h-20 mb-6 group-hover:scale-110 transition-transform">
+                <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <circle cx="32" cy="32" r="30" fill="url(#expertGradient)"/>
+                  <path d="M20 38l8-4 4 4 12-12" stroke="white" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round"/>
+                  <circle cx="32" cy="22" r="6" fill="white"/>
+                  <path d="M26 30c0-3.314 2.686-6 6-6s6 2.686 6 6" stroke="white" strokeWidth="2.5" strokeLinecap="round"/>
+                  <rect x="18" y="42" width="28" height="3" rx="1.5" fill="white"/>
+                  <path d="M24 48h16M26 52h12" stroke="white" strokeWidth="2" strokeLinecap="round"/>
+                  <defs>
+                    <linearGradient id="expertGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                      <stop offset="0%" stopColor="#6366F1"/>
+                      <stop offset="100%" stopColor="#4F46E5"/>
+                    </linearGradient>
+                  </defs>
                 </svg>
               </div>
               <h3 className="text-2xl font-bold mb-3 text-gray-900">{t('features.feature2.title')}</h3>
@@ -85,11 +104,27 @@ export default function Home() {
               </p>
             </div>
 
-            {/* Feature 3 */}
+            {/* Feature 3 - Complete Coverage */}
             <div className="group bg-white p-8 rounded-2xl shadow-md hover:shadow-2xl transition-all duration-300 border border-gray-100 hover:border-blue-200 hover:-translate-y-2">
-              <div className="w-14 h-14 bg-gradient-to-br from-cyan-500 to-cyan-600 rounded-xl flex items-center justify-center mb-6 shadow-lg group-hover:scale-110 transition-transform">
-                <svg className="w-7 h-7 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
-                  <path strokeLinecap="round" strokeLinejoin="round" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+              <div className="w-20 h-20 mb-6 group-hover:scale-110 transition-transform">
+                <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <circle cx="32" cy="32" r="30" fill="url(#coverageGradient)"/>
+                  <circle cx="32" cy="32" r="22" stroke="white" strokeWidth="2" opacity="0.3"/>
+                  <circle cx="32" cy="32" r="16" stroke="white" strokeWidth="2" opacity="0.5"/>
+                  <path d="M32 10v44M10 32h44" stroke="white" strokeWidth="2" opacity="0.3"/>
+                  <path d="M18 18l28 28M46 18L18 46" stroke="white" strokeWidth="1.5" opacity="0.2"/>
+                  <circle cx="32" cy="32" r="8" fill="white"/>
+                  <path d="M32 28v8M28 32h8" stroke="url(#coverageGradient)" strokeWidth="2.5" strokeLinecap="round"/>
+                  <circle cx="32" cy="16" r="2.5" fill="white"/>
+                  <circle cx="32" cy="48" r="2.5" fill="white"/>
+                  <circle cx="16" cy="32" r="2.5" fill="white"/>
+                  <circle cx="48" cy="32" r="2.5" fill="white"/>
+                  <defs>
+                    <linearGradient id="coverageGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                      <stop offset="0%" stopColor="#06B6D4"/>
+                      <stop offset="100%" stopColor="#0891B2"/>
+                    </linearGradient>
+                  </defs>
                 </svg>
               </div>
               <h3 className="text-2xl font-bold mb-3 text-gray-900">{t('features.feature3.title')}</h3>
@@ -155,8 +190,57 @@ export default function Home() {
               <div className="absolute inset-0 bg-gradient-to-br from-blue-400 to-indigo-500 rounded-3xl transform rotate-3 opacity-10"></div>
               <div className="relative bg-white p-12 rounded-3xl shadow-2xl border border-gray-100">
                 <div className="flex justify-center mb-6">
-                  <svg className="w-32 h-32 text-blue-600" fill="currentColor" viewBox="0 0 640 512">
-                    <path d="M0 112.5V422.3c0 18 10.1 35 27 41.3c87 32.5 174 10.3 261-11.9c79.8-20.3 159.6-40.7 239.3-18.9c23 6.3 48.7-9.5 48.7-33.4V89.7c0-18-10.1-35-27-41.3C462 15.9 375 38.1 288 60.3C208.2 80.6 128.4 100.9 48.7 79.1C25.6 72.8 0 88.6 0 112.5zM288 352c-44.2 0-80-43-80-96s35.8-96 80-96s80 43 80 96s-35.8 96-80 96zM96 96c17.7 0 32 14.3 32 32s-14.3 32-32 32s-32-14.3-32-32s14.3-32 32-32zm0 256c17.7 0 32 14.3 32 32s-14.3 32-32 32s-32-14.3-32-32s14.3-32 32-32zM544 96c17.7 0 32 14.3 32 32s-14.3 32-32 32s-32-14.3-32-32s14.3-32 32-32zm0 256c17.7 0 32 14.3 32 32s-14.3 32-32 32s-32-14.3-32-32s14.3-32 32-32z"/>
+                  <svg className="w-40 h-40" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    {/* Sky background */}
+                    <circle cx="100" cy="100" r="95" fill="url(#skyGradient)"/>
+
+                    {/* Sun */}
+                    <circle cx="150" cy="50" r="15" fill="#FCD34D" opacity="0.8"/>
+
+                    {/* Mountains/Hills */}
+                    <path d="M0 120 Q50 100 100 120 T200 120 L200 200 L0 200 Z" fill="#93C5FD" opacity="0.3"/>
+
+                    {/* Motorhome body */}
+                    <rect x="40" y="100" width="120" height="50" rx="8" fill="url(#camperGradient)"/>
+
+                    {/* Motorhome cab/front */}
+                    <path d="M40 100 L40 85 Q40 75 50 75 L70 75 Q80 75 80 85 L80 100 Z" fill="url(#camperGradient)"/>
+
+                    {/* Windows */}
+                    <rect x="50" y="80" width="18" height="12" rx="2" fill="#E0F2FE"/>
+                    <rect x="90" y="110" width="20" height="20" rx="3" fill="#E0F2FE"/>
+                    <rect x="120" y="110" width="20" height="20" rx="3" fill="#E0F2FE"/>
+
+                    {/* Door */}
+                    <rect x="145" y="115" width="12" height="30" rx="2" fill="#1E40AF" opacity="0.3"/>
+                    <circle cx="148" cy="130" r="1.5" fill="#FCD34D"/>
+
+                    {/* Wheels */}
+                    <circle cx="70" cy="155" r="12" fill="#374151"/>
+                    <circle cx="70" cy="155" r="8" fill="#6B7280"/>
+                    <circle cx="70" cy="155" r="4" fill="#9CA3AF"/>
+
+                    <circle cx="130" cy="155" r="12" fill="#374151"/>
+                    <circle cx="130" cy="155" r="8" fill="#6B7280"/>
+                    <circle cx="130" cy="155" r="4" fill="#9CA3AF"/>
+
+                    {/* Details */}
+                    <path d="M160 120 L165 120 M160 125 L165 125 M160 130 L165 130" stroke="#1E40AF" strokeWidth="1.5" opacity="0.3"/>
+
+                    {/* Headlights */}
+                    <circle cx="45" cy="95" r="3" fill="#FCD34D" opacity="0.7"/>
+
+                    <defs>
+                      <linearGradient id="skyGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+                        <stop offset="0%" stopColor="#DBEAFE"/>
+                        <stop offset="100%" stopColor="#BFDBFE"/>
+                      </linearGradient>
+                      <linearGradient id="camperGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+                        <stop offset="0%" stopColor="#3B82F6"/>
+                        <stop offset="50%" stopColor="#2563EB"/>
+                        <stop offset="100%" stopColor="#1D4ED8"/>
+                      </linearGradient>
+                    </defs>
                   </svg>
                 </div>
                 <div className="text-center">
