@@ -295,7 +295,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-3 gap-8 mb-8">
             <div>
-              <h3 className="text-2xl font-bold mb-4 bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent">
+              <h3 className="text-2xl font-bold mb-4 bg-gradient-to-r from-yellow-400 to-yellow-500 bg-clip-text text-transparent">
                 CamperFix
               </h3>
               <p className="text-gray-400 leading-relaxed">
@@ -305,15 +305,15 @@ export default function Home() {
             <div>
               <h4 className="font-semibold mb-4 text-lg">{t('footer.legal')}</h4>
               <div className="space-y-2">
-                <a href="/privacy" className="block text-gray-400 hover:text-blue-400 transition-colors">Privacy Policy</a>
-                <a href="/terms" className="block text-gray-400 hover:text-blue-400 transition-colors">Terms of Service</a>
+                <a href="/privacy" className="block text-gray-400 hover:text-yellow-400 transition-colors">Privacy Policy</a>
+                <a href="/terms" className="block text-gray-400 hover:text-yellow-400 transition-colors">Terms of Service</a>
               </div>
             </div>
             <div>
               <h4 className="font-semibold mb-4 text-lg">{t('footer.support')}</h4>
               <div className="space-y-2">
-                <a href="/support" className="block text-gray-400 hover:text-blue-400 transition-colors">{t('footer.contact')}</a>
-                <a href="/support#faq" className="block text-gray-400 hover:text-blue-400 transition-colors">{t('footer.faq')}</a>
+                <a href="/support" className="block text-gray-400 hover:text-yellow-400 transition-colors">{t('footer.contact')}</a>
+                <a href="/support#faq" className="block text-gray-400 hover:text-yellow-400 transition-colors">{t('footer.faq')}</a>
               </div>
             </div>
           </div>
