@@ -1,0 +1,90 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "privacy": "Confidentialité",
+    "terms": "Conditions",
+    "support": "Support"
+  },
+  "home": {
+    "hero": {
+      "badge": "🚐 Votre Compagnon de Confiance à Chaque Voyage",
+      "title1": "Assistance Technique Experte",
+      "title2": "Pour Votre Camping-Car",
+      "subtitle": "Assistance professionnelle et indépendante pour camping-cars, fourgons aménagés et caravanes à travers l'Europe. Une aide d'expert quand et où vous en avez besoin.",
+      "cta1": "Découvrir les Fonctionnalités",
+      "cta2": "Bientôt Disponible"
+    },
+    "features": {
+      "title": "Pourquoi Choisir CamperFix?",
+      "subtitle": "L'excellence technique rencontre la culture du camping européen",
+      "feature1": {
+        "title": "Réponse Rapide",
+        "description": "Assistance d'urgence en 30 minutes. Que vous traversiez les Alpes ou soyez garé sur la côte, l'aide d'experts n'est qu'à un clic."
+      },
+      "feature2": {
+        "title": "Techniciens Experts",
+        "description": "Diagnostics assistés par IA soutenus par des spécialistes expérimentés. Connaissance approfondie des systèmes et règlementations européennes."
+      },
+      "feature3": {
+        "title": "Solutions Complètes",
+        "description": "Du diagnostic aux recommandations d'ateliers locaux à travers l'Europe. Approvisionnement en pièces, conseils de réparation et assistance garantie en un seul endroit."
+      }
+    },
+    "value": {
+      "badge": "Conçu pour les Campeurs Européens",
+      "title": "Votre Compagnon Technique dans Chaque Aventure Européenne",
+      "text1": "CamperFix connecte les propriétaires de camping-cars et caravanes avec une assistance technique experte dans toute l'Europe. Notre plateforme combine des diagnostics IA de pointe avec des techniciens expérimentés qui comprennent les défis uniques du camping européen.",
+      "text2": "Problèmes électriques en Allemagne? Problèmes de chauffage en Scandinavie? Problèmes de système d'eau en France? CamperFix fournit une assistance technique instantanée et fiable où que votre voyage vous mène.",
+      "check1": {
+        "title": "Multi-Marques",
+        "subtitle": "Toutes marques & modèles"
+      },
+      "check2": {
+        "title": "Disponible 24/7",
+        "subtitle": "Toujours là pour vous"
+      },
+      "check3": {
+        "title": "Toute l'Europe",
+        "subtitle": "Couverture sur tout le continent"
+      },
+      "check4": {
+        "title": "Multilingue",
+        "subtitle": "Support dans votre langue"
+      },
+      "systems": {
+        "electrical": {
+          "title": "Systèmes Électriques",
+          "subtitle": "Solaire, batteries, onduleurs"
+        },
+        "climate": {
+          "title": "Climatisation",
+          "subtitle": "Chauffage, refroidissement, ventilation"
+        },
+        "water": {
+          "title": "Systèmes d'Eau",
+          "subtitle": "Plomberie, pompes, réservoirs"
+        },
+        "mechanical": {
+          "title": "Mécanique",
+          "subtitle": "Moteur, transmission, freins"
+        }
+      }
+    },
+    "download": {
+      "badge": "Très Bientôt Disponible",
+      "title": "Prêt à Prendre la Route?",
+      "description": "CamperFix sera disponible sur iOS et Android. Soyez parmi les premiers à profiter d'un camping sans stress à travers l'Europe.",
+      "appStore": "App Store",
+      "googlePlay": "Google Play",
+      "waitlist": "Rejoignez notre liste d'attente et soyez notifié au lancement"
+    },
+    "footer": {
+      "description": "Assistance technique professionnelle pour camping-cars, fourgons aménagés et caravanes à travers l'Europe.",
+      "legal": "Légal",
+      "support": "Support",
+      "contact": "Contact",
+      "faq": "FAQ",
+      "copyright": "Tous droits réservés. Fait avec ❤️ pour les campeurs européens."
+    }
+  }
+}

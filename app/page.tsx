@@ -16,8 +16,8 @@ export default function Home() {
               </span>
             </h1>
             <p className="text-xl sm:text-2xl mb-10 max-w-3xl mx-auto text-blue-50 leading-relaxed">
-              Professional, brand-agnostic assistance for motorhomes, campervans, and caravans across Europe.
-              Expert help whenever and wherever you need it.
+              Professional, brand-agnostic assistance for motorhomes, campervans, and caravans.
+              Get expert help whenever and wherever you need it on your adventures.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
@@ -48,7 +48,7 @@ export default function Home() {
               Why Choose CamperFix?
             </h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              Technical excellence meets European camping culture
+              Professional technical support that goes wherever you do
             </p>
           </div>
 
@@ -60,7 +60,7 @@ export default function Home() {
               </div>
               <h3 className="text-2xl font-bold mb-3 text-gray-900">Rapid Response</h3>
               <p className="text-gray-600 leading-relaxed">
-                Emergency support within 30 minutes. Whether you're touring the Alps or parked on the coast,
+                Emergency support within 30 minutes. Whether you're on a mountain pass or seaside campsite,
                 expert help is just a tap away.
               </p>
             </div>
@@ -72,8 +72,8 @@ export default function Home() {
               </div>
               <h3 className="text-2xl font-bold mb-3 text-gray-900">Expert Technicians</h3>
               <p className="text-gray-600 leading-relaxed">
-                AI-enhanced diagnostics backed by experienced camper specialists. Deep knowledge of European
-                motorhome systems and regulations.
+                AI-enhanced diagnostics backed by experienced camper specialists who understand
+                motorhome systems, safety, and best practices.
               </p>
             </div>
 
@@ -84,8 +84,8 @@ export default function Home() {
               </div>
               <h3 className="text-2xl font-bold mb-3 text-gray-900">Complete Solutions</h3>
               <p className="text-gray-600 leading-relaxed">
-                From diagnosis to local workshop referrals across Europe. Parts sourcing, repair guidance,
-                and warranty advice all in one place.
+                From diagnosis to parts sourcing to local workshop referrals. Repair guidance
+                and warranty advice all in one place, wherever you are.
               </p>
             </div>
           </div>
@@ -98,19 +98,19 @@ export default function Home() {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <div className="inline-block mb-4 px-4 py-2 bg-blue-100 rounded-full text-sm font-medium text-blue-700">
-                Built for European Campers
+                Built for the Road
               </div>
               <h2 className="text-4xl sm:text-5xl font-bold mb-6 text-gray-900 leading-tight">
-                Your Technical Companion on Every European Adventure
+                Your Technical Companion on Every Adventure
               </h2>
               <p className="text-lg text-gray-700 mb-6 leading-relaxed">
-                CamperFix connects motorhome and caravan owners with expert technical support throughout Europe.
+                CamperFix connects motorhome and caravan owners with expert technical support wherever they travel.
                 Our platform combines cutting-edge AI diagnostics with experienced technicians who understand
-                the unique challenges of European camping.
+                the unique challenges of living and traveling in your camper.
               </p>
               <p className="text-lg text-gray-700 leading-relaxed">
-                Electrical faults in Germany? Heating issues in Scandinavia? Water system problems in France?
-                CamperFix provides instant, reliable technical assistance wherever your journey takes you.
+                Electrical issues? Heating problems? Water system faults? Engine concerns?
+                CamperFix provides instant, reliable technical assistance to keep you moving and enjoying your journey.
               </p>
 
               <div className="mt-8 grid grid-cols-2 gap-6">
@@ -131,8 +131,8 @@ export default function Home() {
                 <div className="flex items-start gap-3">
                   <div className="flex-shrink-0 w-6 h-6 bg-green-500 rounded-full flex items-center justify-center text-white text-sm">✓</div>
                   <div>
-                    <div className="font-semibold text-gray-900">Europe-Wide</div>
-                    <div className="text-sm text-gray-600">Coverage across the continent</div>
+                    <div className="font-semibold text-gray-900">Comprehensive</div>
+                    <div className="text-sm text-gray-600">All systems covered</div>
                   </div>
                 </div>
                 <div className="flex items-start gap-3">
@@ -197,7 +197,7 @@ export default function Home() {
               <h2 className="text-4xl sm:text-5xl font-bold mb-4">Ready to Hit the Road?</h2>
               <p className="text-xl mb-8 text-blue-100 max-w-2xl mx-auto">
                 CamperFix will be available on iOS and Android. Be among the first to experience
-                stress-free camping across Europe.
+                stress-free camping adventures with professional support at your fingertips.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
                 <div className="bg-white/10 backdrop-blur-sm text-white px-8 py-4 rounded-xl font-semibold border-2 border-white/30 flex items-center justify-center gap-2">
@@ -226,7 +226,7 @@ export default function Home() {
                 CamperFix
               </h3>
               <p className="text-gray-400 leading-relaxed">
-                Professional technical support for campers, motorhomes, and caravans across Europe.
+                Professional technical support for campers, motorhomes, and caravans. Wherever your journey takes you.
               </p>
             </div>
             <div>
@@ -245,7 +245,7 @@ export default function Home() {
             </div>
           </div>
           <div className="border-t border-gray-700 pt-8 text-center text-gray-400">
-            <p>&copy; 2024 CamperFix. All rights reserved. Made with ❤️ for European campers.</p>
+            <p>&copy; 2024 CamperFix. All rights reserved. Made with ❤️ for camper enthusiasts worldwide.</p>
           </div>
         </div>
       </footer>

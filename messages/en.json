@@ -1,0 +1,90 @@
+{
+  "nav": {
+    "home": "Home",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "support": "Support"
+  },
+  "home": {
+    "hero": {
+      "badge": "🚐 Your Trusted Companion on Every Journey",
+      "title1": "Expert Technical Support",
+      "title2": "For Your Camper",
+      "subtitle": "Professional, brand-agnostic assistance for motorhomes, campervans, and caravans across Europe. Expert help whenever and wherever you need it.",
+      "cta1": "Discover Features",
+      "cta2": "Launching Soon"
+    },
+    "features": {
+      "title": "Why Choose CamperFix?",
+      "subtitle": "Technical excellence meets European camping culture",
+      "feature1": {
+        "title": "Rapid Response",
+        "description": "Emergency support within 30 minutes. Whether you're touring the Alps or parked on the coast, expert help is just a tap away."
+      },
+      "feature2": {
+        "title": "Expert Technicians",
+        "description": "AI-enhanced diagnostics backed by experienced camper specialists. Deep knowledge of European motorhome systems and regulations."
+      },
+      "feature3": {
+        "title": "Complete Solutions",
+        "description": "From diagnosis to local workshop referrals across Europe. Parts sourcing, repair guidance, and warranty advice all in one place."
+      }
+    },
+    "value": {
+      "badge": "Built for European Campers",
+      "title": "Your Technical Companion on Every European Adventure",
+      "text1": "CamperFix connects motorhome and caravan owners with expert technical support throughout Europe. Our platform combines cutting-edge AI diagnostics with experienced technicians who understand the unique challenges of European camping.",
+      "text2": "Electrical faults in Germany? Heating issues in Scandinavia? Water system problems in France? CamperFix provides instant, reliable technical assistance wherever your journey takes you.",
+      "check1": {
+        "title": "Brand Agnostic",
+        "subtitle": "All makes & models"
+      },
+      "check2": {
+        "title": "24/7 Available",
+        "subtitle": "Always there for you"
+      },
+      "check3": {
+        "title": "Europe-Wide",
+        "subtitle": "Coverage across the continent"
+      },
+      "check4": {
+        "title": "Multi-lingual",
+        "subtitle": "Support in your language"
+      },
+      "systems": {
+        "electrical": {
+          "title": "Electrical Systems",
+          "subtitle": "Solar, batteries, inverters"
+        },
+        "climate": {
+          "title": "Climate Control",
+          "subtitle": "Heating, cooling, ventilation"
+        },
+        "water": {
+          "title": "Water Systems",
+          "subtitle": "Plumbing, pumps, tanks"
+        },
+        "mechanical": {
+          "title": "Mechanical",
+          "subtitle": "Engine, transmission, brakes"
+        }
+      }
+    },
+    "download": {
+      "badge": "Coming Very Soon",
+      "title": "Ready to Hit the Road?",
+      "description": "CamperFix will be available on iOS and Android. Be among the first to experience stress-free camping across Europe.",
+      "appStore": "App Store",
+      "googlePlay": "Google Play",
+      "waitlist": "Join our waiting list and get notified at launch"
+    },
+    "footer": {
+      "description": "Professional technical support for campers, motorhomes, and caravans across Europe.",
+      "legal": "Legal",
+      "support": "Support",
+      "contact": "Contact Us",
+      "faq": "FAQ",
+      "copyright": "All rights reserved. Made with ❤️ for European campers."
+    }
+  }
+}
