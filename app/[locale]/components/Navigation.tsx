@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import LanguageSwitcher from './LanguageSwitcher';
 
 export default function Navigation() {
   return (
@@ -12,24 +13,24 @@ export default function Navigation() {
               </span>
             </Link>
           </div>
-          <div className="flex items-center space-x-8">
+          <div className="flex items-center space-x-6">
             <Link
               href="/"
-              className="text-gray-700 hover:text-blue-600 transition-colors font-medium relative group"
+              className="text-gray-700 hover:text-blue-600 transition-colors font-medium relative group hidden sm:block"
             >
               Home
               <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-blue-600 group-hover:w-full transition-all duration-300"></span>
             </Link>
             <Link
               href="/privacy"
-              className="text-gray-700 hover:text-blue-600 transition-colors font-medium relative group"
+              className="text-gray-700 hover:text-blue-600 transition-colors font-medium relative group hidden sm:block"
             >
               Privacy
               <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-blue-600 group-hover:w-full transition-all duration-300"></span>
             </Link>
             <Link
               href="/terms"
-              className="text-gray-700 hover:text-blue-600 transition-colors font-medium relative group"
+              className="text-gray-700 hover:text-blue-600 transition-colors font-medium relative group hidden sm:block"
             >
               Terms
               <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-blue-600 group-hover:w-full transition-all duration-300"></span>
@@ -40,6 +41,7 @@ export default function Navigation() {
             >
               Support
             </Link>
+            <LanguageSwitcher />
           </div>
         </div>
       </div>
