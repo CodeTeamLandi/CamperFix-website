@@ -5,88 +5,48 @@
     "terms": "Términos",
     "support": "Soporte"
   },
-  "home": {
-    "hero": {
-      "badge": "🚐 Tu Compañero de Confianza en Cada Viaje",
-      "title1": "Asistencia Técnica Experta",
-      "title2": "Para Tu Autocaravana",
-      "subtitle": "Asistencia profesional e independiente para autocaravanas, furgonetas camper y caravanas en Europa. Ayuda experta cuando y donde la necesites.",
-      "cta1": "Descubre Funciones",
-      "cta2": "Próximamente"
-    },
-    "features": {
-      "title": "¿Por Qué Elegir CamperFix?",
-      "subtitle": "Excelencia técnica se encuentra con la cultura del camping europea",
-      "feature1": {
-        "title": "Respuesta Rápida",
-        "description": "Soporte de emergencia en 30 minutos. Ya sea que estés recorriendo los Alpes o aparcado en la costa, la ayuda experta está a solo un toque de distancia."
+  "comingSoon": {
+    "badge": "Muy pronto",
+    "title": "Estamos reconstruyendo CamperFix",
+    "subtitle": "Una experiencia de soporte más serena y rápida para propietarios de campers en toda Europa. Estamos concentrados en la nueva versión: déjanos tu correo y viaja con nosotros desde el primer día.",
+    "waitlistTitle": "Lista de acceso anticipado",
+    "waitlistNote": "Nada de spam, solo un correo cuando la beta esté lista.",
+    "statusLabel": "Próximos hitos",
+    "milestones": {
+      "alpha": {
+        "label": "Beta privada",
+        "date": "Enero 2025",
+        "detail": "Diagnósticos remotos con un grupo reducido de testers."
       },
-      "feature2": {
-        "title": "Técnicos Expertos",
-        "description": "Diagnóstico mejorado con IA respaldado por especialistas experimentados en autocaravanas. Conocimiento profundo de los sistemas y regulaciones europeas."
+      "beta": {
+        "label": "Tripulaciones fundadoras",
+        "date": "Febrero 2025",
+        "detail": "Campings asociados y expertos de servicio en línea."
       },
-      "feature3": {
-        "title": "Soluciones Completas",
-        "description": "Desde el diagnóstico hasta referencias de talleres locales en toda Europa. Suministro de piezas, guía de reparación y asesoramiento de garantía todo en un solo lugar."
+      "launch": {
+        "label": "Lanzamiento público",
+        "date": "Primavera 2025",
+        "detail": "Mesa técnica 24/7 y multilingüe para cada viaje."
       }
     },
-    "value": {
-      "badge": "Construido para Autocaravanistas Europeos",
-      "title": "Tu Compañero Técnico en Cada Aventura Europea",
-      "text1": "CamperFix conecta a los propietarios de autocaravanas y caravanas con asistencia técnica experta en toda Europa. Nuestra plataforma combina diagnósticos de IA de vanguardia con técnicos experimentados que entienden los desafíos únicos del camping europeo.",
-      "text2": "¿Fallos eléctricos en Alemania? ¿Problemas de calefacción en Escandinavia? ¿Problemas del sistema de agua en Francia? CamperFix proporciona asistencia técnica instantánea y confiable dondequiera que te lleve tu viaje.",
-      "check1": {
-        "title": "Independiente de Marca",
-        "subtitle": "Todas las marcas y modelos"
+    "highlights": {
+      "experts": {
+        "title": "Diagnóstico experto",
+        "description": "Videollamadas y guías paso a paso para sistemas eléctricos, de agua y clima."
       },
-      "check2": {
-        "title": "Disponible 24/7",
-        "subtitle": "Siempre a tu lado"
+      "coverage": {
+        "title": "Cobertura europea",
+        "description": "Especialistas multilingües que conocen las normativas locales."
       },
-      "check3": {
-        "title": "En Toda Europa",
-        "subtitle": "Cobertura en todo el continente"
-      },
-      "check4": {
-        "title": "Multilingüe",
-        "subtitle": "Soporte en tu idioma"
-      },
-      "systems": {
-        "electrical": {
-          "title": "Sistemas Eléctricos",
-          "subtitle": "Solar, baterías, inversores"
-        },
-        "climate": {
-          "title": "Control Climático",
-          "subtitle": "Calefacción, refrigeración, ventilación"
-        },
-        "water": {
-          "title": "Sistemas de Agua",
-          "subtitle": "Fontanería, bombas, tanques"
-        },
-        "mechanical": {
-          "title": "Mecánico",
-          "subtitle": "Motor, transmisión, frenos"
-        }
+      "peace": {
+        "title": "Tranquilidad total",
+        "description": "Registra incidencias, guarda el historial de servicio y mantén tus rutas sin estrés."
       }
-    },
-    "download": {
-      "badge": "Muy Pronto Disponible",
-      "title": "¿Listo para Salir a la Carretera?",
-      "description": "CamperFix estará disponible en iOS y Android. Sé de los primeros en experimentar camping sin estrés en toda Europa.",
-      "appStore": "App Store",
-      "googlePlay": "Google Play",
-      "waitlist": "Únete a nuestra lista de espera y recibe una notificación en el lanzamiento"
     },
     "footer": {
-      "description": "Asistencia técnica profesional para autocaravanas, furgonetas camper y caravanas en toda Europa.",
-      "legal": "Legal",
-      "support": "Soporte",
-      "contact": "Contáctanos",
-      "faq": "Preguntas Frecuentes",
-      "copyright": "Todos los derechos reservados. Hecho con ❤️ para autocaravanistas europeos."
+      "tagline": "CamperFix — soporte técnico para campers, autocaravanas y caravanas.",
+      "contact": "¿Necesitas algo antes? hello@camperfix.com"
     }
-  }
   },
   "waitlist": {
     "placeholder": "Introduce tu email",

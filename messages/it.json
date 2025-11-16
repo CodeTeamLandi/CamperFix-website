@@ -5,88 +5,48 @@
     "terms": "Termini",
     "support": "Supporto"
   },
-  "home": {
-    "hero": {
-      "badge": "🚐 Il Tuo Compagno Fidato in Ogni Viaggio",
-      "title1": "Assistenza Tecnica Esperta",
-      "title2": "Per il Tuo Camper",
-      "subtitle": "Assistenza professionale e indipendente per camper, furgonati e roulotte in Europa. Aiuto esperto quando e dove ne hai bisogno.",
-      "cta1": "Scopri le Funzionalità",
-      "cta2": "In Arrivo Presto"
-    },
-    "features": {
-      "title": "Perché Scegliere CamperFix?",
-      "subtitle": "Eccellenza tecnica incontra la cultura del campeggio europea",
-      "feature1": {
-        "title": "Risposta Rapida",
-        "description": "Supporto d'emergenza entro 30 minuti. Che tu stia attraversando le Alpi o parcheggiato sulla costa, l'aiuto esperto è a portata di mano."
+  "comingSoon": {
+    "badge": "In arrivo",
+    "title": "Stiamo ricostruendo CamperFix",
+    "subtitle": "Un’esperienza di supporto più calma e veloce per i camperisti in tutta Europa. Siamo immersi nel nuovo rilascio: lasciaci la tua email e parti con noi dal primo giorno.",
+    "waitlistTitle": "Lista d’attesa per l’early access",
+    "waitlistNote": "Niente spam, solo un messaggio quando la beta sarà pronta.",
+    "statusLabel": "Prossime tappe",
+    "milestones": {
+      "alpha": {
+        "label": "Beta privata",
+        "date": "Gennaio 2025",
+        "detail": "Diagnosi da remoto con un piccolo gruppo di tester."
       },
-      "feature2": {
-        "title": "Tecnici Esperti",
-        "description": "Diagnostica potenziata dall'IA supportata da specialisti esperti di camper. Conoscenza approfondita dei sistemi e delle normative europee per camper."
+      "beta": {
+        "label": "Crew fondatrici",
+        "date": "Febbraio 2025",
+        "detail": "Campeggi partner ed esperti di servizio online."
       },
-      "feature3": {
-        "title": "Soluzioni Complete",
-        "description": "Dalla diagnosi ai riferimenti di officine locali in tutta Europa. Ricerca pezzi, guida alle riparazioni e consulenza sulla garanzia tutto in un unico posto."
+      "launch": {
+        "label": "Lancio pubblico",
+        "date": "Primavera 2025",
+        "detail": "Supporto tecnico 24/7 multilingue per ogni viaggio."
       }
     },
-    "value": {
-      "badge": "Costruito per i Camperisti Europei",
-      "title": "Il Tuo Compagno Tecnico in Ogni Avventura Europea",
-      "text1": "CamperFix collega i proprietari di camper e roulotte con assistenza tecnica esperta in tutta Europa. La nostra piattaforma combina diagnostica AI all'avanguardia con tecnici esperti che comprendono le sfide uniche del campeggio europeo.",
-      "text2": "Guasti elettrici in Germania? Problemi di riscaldamento in Scandinavia? Problemi al sistema idrico in Francia? CamperFix fornisce assistenza tecnica immediata e affidabile ovunque ti porti il tuo viaggio.",
-      "check1": {
-        "title": "Indipendente dalla Marca",
-        "subtitle": "Tutte le marche e modelli"
+    "highlights": {
+      "experts": {
+        "title": "Diagnostica esperta",
+        "description": "Video call e guide passo-passo per sistemi elettrici, idrici e clima."
       },
-      "check2": {
-        "title": "Disponibile 24/7",
-        "subtitle": "Sempre al tuo fianco"
+      "coverage": {
+        "title": "Copertura europea",
+        "description": "Specialisti multilingue che conoscono le normative locali."
       },
-      "check3": {
-        "title": "In Tutta Europa",
-        "subtitle": "Copertura in tutto il continente"
-      },
-      "check4": {
-        "title": "Multilingue",
-        "subtitle": "Supporto nella tua lingua"
-      },
-      "systems": {
-        "electrical": {
-          "title": "Sistemi Elettrici",
-          "subtitle": "Solare, batterie, inverter"
-        },
-        "climate": {
-          "title": "Controllo Climatico",
-          "subtitle": "Riscaldamento, raffreddamento, ventilazione"
-        },
-        "water": {
-          "title": "Sistemi Idrici",
-          "subtitle": "Idraulica, pompe, serbatoi"
-        },
-        "mechanical": {
-          "title": "Meccanica",
-          "subtitle": "Motore, trasmissione, freni"
-        }
+      "peace": {
+        "title": "Viaggi sereni",
+        "description": "Registra gli interventi, salva lo storico e viaggia senza stress."
       }
-    },
-    "download": {
-      "badge": "In Arrivo Molto Presto",
-      "title": "Pronto a Metterti in Viaggio?",
-      "description": "CamperFix sarà disponibile su iOS e Android. Sii tra i primi a sperimentare un campeggio senza stress in tutta Europa.",
-      "appStore": "App Store",
-      "googlePlay": "Google Play",
-      "waitlist": "Iscriviti alla nostra lista d'attesa e ricevi una notifica al lancio"
     },
     "footer": {
-      "description": "Assistenza tecnica professionale per camper, furgonati e roulotte in tutta Europa.",
-      "legal": "Legale",
-      "support": "Supporto",
-      "contact": "Contattaci",
-      "faq": "FAQ",
-      "copyright": "Tutti i diritti riservati. Fatto con ❤️ per i camperisti europei."
+      "tagline": "CamperFix — supporto tecnico per camper, motorhome e caravan.",
+      "contact": "Serve qualcosa prima? hello@camperfix.com"
     }
-  }
   },
   "waitlist": {
     "placeholder": "Inserisci la tua email",
