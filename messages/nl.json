@@ -5,88 +5,48 @@
     "terms": "Voorwaarden",
     "support": "Ondersteuning"
   },
-  "home": {
-    "hero": {
-      "badge": "🚐 Jouw Betrouwbare Metgezel op Elke Reis",
-      "title1": "Professionele Technische Ondersteuning",
-      "title2": "Voor Jouw Camper",
-      "subtitle": "Professionele, merkonafhankelijke assistentie voor campers, kampeerauto's en caravans in Europa. Deskundige hulp wanneer en waar je het nodig hebt.",
-      "cta1": "Ontdek Functies",
-      "cta2": "Binnenkort Beschikbaar"
-    },
-    "features": {
-      "title": "Waarom Kiezen Voor CamperFix?",
-      "subtitle": "Technische excellentie ontmoet Europese campingcultuur",
-      "feature1": {
-        "title": "Snelle Reactie",
-        "description": "Noodondersteuning binnen 30 minuten. Of je nu door de Alpen rijdt of aan de kust staat, deskundige hulp is slechts een tik verwijderd."
+  "comingSoon": {
+    "badge": "Binnenkort beschikbaar",
+    "title": "We bouwen CamperFix opnieuw",
+    "subtitle": "Een stillere en snellere supportervaring voor camperaars in heel Europa. We werken gefocust aan de nieuwe release—laat je e-mail achter en reis vanaf dag één mee.",
+    "waitlistTitle": "Early-access-wachtlijst",
+    "waitlistNote": "Geen spam, slechts één mail zodra de bèta klaarstaat.",
+    "statusLabel": "Volgende mijlpalen",
+    "milestones": {
+      "alpha": {
+        "label": "Private bèta",
+        "date": "Januari 2025",
+        "detail": "Remote-diagnoses met een kleine testgroep."
       },
-      "feature2": {
-        "title": "Deskundige Technici",
-        "description": "AI-versterkte diagnostiek ondersteund door ervaren camperspecialisten. Grondige kennis van Europese campersystemen en regelgeving."
+      "beta": {
+        "label": "Founding crews",
+        "date": "Februari 2025",
+        "detail": "Partnercampings en service-experts gaan live."
       },
-      "feature3": {
-        "title": "Complete Oplossingen",
-        "description": "Van diagnose tot lokale werkplaatsverwijzingen door heel Europa. Onderdelenvoorziening, reparatieadvies en garantieadvies allemaal op één plek."
+      "launch": {
+        "label": "Publieke lancering",
+        "date": "Voorjaar 2025",
+        "detail": "24/7 meertalig technisch team voor elke trip."
       }
     },
-    "value": {
-      "badge": "Gebouwd voor Europese Camperaars",
-      "title": "Jouw Technische Metgezel op Elk Europees Avontuur",
-      "text1": "CamperFix verbindt camper- en caravaneigenaren met deskundige technische ondersteuning door heel Europa. Ons platform combineert geavanceerde AI-diagnostiek met ervaren technici die de unieke uitdagingen van Europees kamperen begrijpen.",
-      "text2": "Elektrische storingen in Duitsland? Verwarmingsproblemen in Scandinavië? Watersysteemproblemen in Frankrijk? CamperFix biedt directe, betrouwbare technische assistentie waar je reis je ook brengt.",
-      "check1": {
-        "title": "Merkonafhankelijk",
-        "subtitle": "Alle merken & modellen"
+    "highlights": {
+      "experts": {
+        "title": "Expert-diagnostiek",
+        "description": "Videocalls en stapsgewijze begeleiding voor elektra-, water- en klimaatsystemen."
       },
-      "check2": {
-        "title": "24/7 Beschikbaar",
-        "subtitle": "Altijd voor je klaar"
+      "coverage": {
+        "title": "Dekking in heel Europa",
+        "description": "Meertalige specialisten met kennis van lokale regels."
       },
-      "check3": {
-        "title": "Europa-Breed",
-        "subtitle": "Dekking over het hele continent"
-      },
-      "check4": {
-        "title": "Meertalig",
-        "subtitle": "Ondersteuning in jouw taal"
-      },
-      "systems": {
-        "electrical": {
-          "title": "Elektrische Systemen",
-          "subtitle": "Zonnepanelen, accu's, omvormers"
-        },
-        "climate": {
-          "title": "Klimaatbeheersing",
-          "subtitle": "Verwarming, koeling, ventilatie"
-        },
-        "water": {
-          "title": "Watersystemen",
-          "subtitle": "Leidingwerk, pompen, tanks"
-        },
-        "mechanical": {
-          "title": "Mechanisch",
-          "subtitle": "Motor, transmissie, remmen"
-        }
+      "peace": {
+        "title": "Met een gerust hart",
+        "description": "Incidenten loggen, servicehistorie bewaren en zorgeloos reizen."
       }
-    },
-    "download": {
-      "badge": "Zeer Binnenkort Beschikbaar",
-      "title": "Klaar om de Weg Op te Gaan?",
-      "description": "CamperFix wordt beschikbaar op iOS en Android. Wees een van de eersten die zorgeloos kamperen door heel Europa ervaart.",
-      "appStore": "App Store",
-      "googlePlay": "Google Play",
-      "waitlist": "Schrijf je in voor onze wachtlijst en ontvang een melding bij de lancering"
     },
     "footer": {
-      "description": "Professionele technische ondersteuning voor campers, kampeerauto's en caravans door heel Europa.",
-      "legal": "Juridisch",
-      "support": "Ondersteuning",
-      "contact": "Neem Contact Op",
-      "faq": "Veelgestelde Vragen",
-      "copyright": "Alle rechten voorbehouden. Gemaakt met ❤️ voor Europese camperaars."
+      "tagline": "CamperFix — technische support voor campers, motorhomes en caravans.",
+      "contact": "Nu al hulp nodig? hello@camperfix.com"
     }
-  }
   },
   "waitlist": {
     "placeholder": "Voer je e-mail in",

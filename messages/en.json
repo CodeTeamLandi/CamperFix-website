@@ -5,86 +5,47 @@
     "terms": "Terms",
     "support": "Support"
   },
-  "home": {
-    "hero": {
-      "badge": "🚐 Your Trusted Companion on Every Journey",
-      "title1": "Expert Technical Support",
-      "title2": "For Your Camper",
-      "subtitle": "Professional, brand-agnostic assistance for motorhomes, campervans, and caravans across Europe. Expert help whenever and wherever you need it.",
-      "cta1": "Discover Features",
-      "cta2": "Launching Soon"
-    },
-    "features": {
-      "title": "Why Choose CamperFix?",
-      "subtitle": "Professional support when you need it most",
-      "feature1": {
-        "title": "Fast Response",
-        "description": "Get help quickly when problems arise. Expert assistance is available wherever you travel."
+  "comingSoon": {
+    "badge": "Coming soon",
+    "title": "We’re rebuilding CamperFix",
+    "subtitle": "A quieter, faster support experience for camper owners across Europe. We're heads-down on the new release—leave your email to travel with us from day one.",
+    "waitlistTitle": "Early access waitlist",
+    "waitlistNote": "No spam, just a single email when the beta is ready.",
+    "statusLabel": "Next milestones",
+    "milestones": {
+      "alpha": {
+        "label": "Private beta",
+        "date": "January 2025",
+        "detail": "Remote diagnostics with a small convoy of testers."
       },
-      "feature2": {
-        "title": "Expert Support",
-        "description": "Professional guidance from experienced specialists who understand your vehicle and your needs."
+      "beta": {
+        "label": "Founding crews onboard",
+        "date": "February 2025",
+        "detail": "Partner campsites and service experts go live."
       },
-      "feature3": {
-        "title": "Complete Coverage",
-        "description": "Comprehensive assistance for all your technical needs, wherever your journey takes you."
+      "launch": {
+        "label": "Public launch",
+        "date": "Spring 2025",
+        "detail": "24/7 multilingual technical desk for every journey."
       }
     },
-    "value": {
-      "badge": "Built for Campers",
-      "title": "Your Support System on the Road",
-      "text1": "CamperFix provides professional technical assistance for motorhome and caravan owners. We're here to help you solve problems and keep your adventures on track.",
-      "text2": "Whether you're dealing with unexpected issues or need quick advice, CamperFix is designed to give you peace of mind on every journey.",
-      "check1": {
-        "title": "Brand Agnostic",
-        "subtitle": "All makes & models"
+    "highlights": {
+      "experts": {
+        "title": "Expert diagnostics",
+        "description": "Live video calls plus step-by-step guidance for electrical, water and climate systems."
       },
-      "check2": {
-        "title": "24/7 Available",
-        "subtitle": "Always there for you"
+      "coverage": {
+        "title": "Europe-wide coverage",
+        "description": "Multilingual specialists who understand local regulations and brands."
       },
-      "check3": {
-        "title": "Europe-Wide",
-        "subtitle": "Coverage across the continent"
-      },
-      "check4": {
-        "title": "Multi-lingual",
-        "subtitle": "Support in your language"
-      },
-      "systems": {
-        "electrical": {
-          "title": "Electrical Systems",
-          "subtitle": "Solar, batteries, inverters"
-        },
-        "climate": {
-          "title": "Climate Control",
-          "subtitle": "Heating, cooling, ventilation"
-        },
-        "water": {
-          "title": "Water Systems",
-          "subtitle": "Plumbing, pumps, tanks"
-        },
-        "mechanical": {
-          "title": "Mechanical",
-          "subtitle": "Engine, transmission, brakes"
-        }
+      "peace": {
+        "title": "Peace of mind",
+        "description": "Log incidents, save service history and keep every trip stress-free."
       }
-    },
-    "download": {
-      "badge": "Coming Very Soon",
-      "title": "Ready to Hit the Road?",
-      "description": "CamperFix will be available on iOS and Android. Be among the first to experience stress-free camping across Europe.",
-      "appStore": "App Store",
-      "googlePlay": "Google Play",
-      "waitlist": "Join our waiting list and get notified at launch"
     },
     "footer": {
-      "description": "Professional technical support for campers, motorhomes, and caravans across Europe.",
-      "legal": "Legal",
-      "support": "Support",
-      "contact": "Contact Us",
-      "faq": "FAQ",
-      "copyright": "All rights reserved. Made with ❤️ for European campers."
+      "tagline": "CamperFix — technical support for campervans, RVs and caravans.",
+      "contact": "Need something sooner? hello@camperfix.com"
     }
   },
   "waitlist": {

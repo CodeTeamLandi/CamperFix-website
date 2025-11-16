@@ -5,88 +5,48 @@
     "terms": "AGB",
     "support": "Support"
   },
-  "home": {
-    "hero": {
-      "badge": "🚐 Ihr vertrauenswürdiger Begleiter auf jeder Reise",
-      "title1": "Professioneller Technischer Support",
-      "title2": "Für Ihr Wohnmobil",
-      "subtitle": "Professionelle, herstellerunabhängige Unterstützung für Wohnmobile, Campervans und Caravans in ganz Europa. Expertenhilfe, wann und wo Sie sie brauchen.",
-      "cta1": "Funktionen Entdecken",
-      "cta2": "Bald Verfügbar"
-    },
-    "features": {
-      "title": "Warum CamperFix Wählen?",
-      "subtitle": "Technische Exzellenz trifft auf europäische Campingkultur",
-      "feature1": {
-        "title": "Schnelle Reaktion",
-        "description": "Notfallunterstützung innerhalb von 30 Minuten. Ob Sie durch die Alpen touren oder an der Küste parken, Expertenhilfe ist nur einen Fingertipp entfernt."
+  "comingSoon": {
+    "badge": "Demnächst",
+    "title": "Wir bauen CamperFix neu auf",
+    "subtitle": "Eine ruhigere, schnellere Support-Erfahrung für Camper in ganz Europa. Wir arbeiten fokussiert am neuen Release – trag dich ein und sei vom ersten Tag an dabei.",
+    "waitlistTitle": "Early-Access-Warteliste",
+    "waitlistNote": "Kein Spam, nur eine E-Mail, sobald die Beta bereit ist.",
+    "statusLabel": "Nächste Meilensteine",
+    "milestones": {
+      "alpha": {
+        "label": "Private Beta",
+        "date": "Januar 2025",
+        "detail": "Remote-Diagnosen mit einer kleinen Testflotte."
       },
-      "feature2": {
-        "title": "Fachkundige Techniker",
-        "description": "KI-gestützte Diagnose unterstützt von erfahrenen Wohnmobil-Spezialisten. Tiefes Wissen über europäische Wohnmobilsysteme und Vorschriften."
+      "beta": {
+        "label": "Founding Crews",
+        "date": "Februar 2025",
+        "detail": "Partner-Campingplätze und Service-Profis gehen live."
       },
-      "feature3": {
-        "title": "Komplettlösungen",
-        "description": "Von der Diagnose bis zur lokalen Werkstattvermittlung in ganz Europa. Teilebeschaffung, Reparaturanleitung und Garantieberatung an einem Ort."
+      "launch": {
+        "label": "Öffentlicher Start",
+        "date": "Frühjahr 2025",
+        "detail": "24/7 mehrsprachiger Technikdesk für jede Reise."
       }
     },
-    "value": {
-      "badge": "Entwickelt für Europäische Camper",
-      "title": "Ihr Technischer Begleiter auf Jedem Europäischen Abenteuer",
-      "text1": "CamperFix verbindet Wohnmobil- und Caravanbesitzer mit fachkundiger technischer Unterstützung in ganz Europa. Unsere Plattform kombiniert modernste KI-Diagnose mit erfahrenen Technikern, die die einzigartigen Herausforderungen des europäischen Campings verstehen.",
-      "text2": "Elektrische Probleme in Deutschland? Heizungsprobleme in Skandinavien? Wassersystemprobleme in Frankreich? CamperFix bietet sofortige, zuverlässige technische Unterstützung, wo immer Ihre Reise Sie hinführt.",
-      "check1": {
-        "title": "Markenunabhängig",
-        "subtitle": "Alle Hersteller & Modelle"
+    "highlights": {
+      "experts": {
+        "title": "Fachliche Diagnose",
+        "description": "Live-Video und Schritt-für-Schritt-Anleitungen für Elektro-, Wasser- und Klimasysteme."
       },
-      "check2": {
-        "title": "24/7 Verfügbar",
-        "subtitle": "Immer für Sie da"
+      "coverage": {
+        "title": "Europaweite Abdeckung",
+        "description": "Mehrsprachige Spezialisten mit Wissen über lokale Vorschriften."
       },
-      "check3": {
-        "title": "Europaweit",
-        "subtitle": "Abdeckung auf dem ganzen Kontinent"
-      },
-      "check4": {
-        "title": "Mehrsprachig",
-        "subtitle": "Support in Ihrer Sprache"
-      },
-      "systems": {
-        "electrical": {
-          "title": "Elektrische Systeme",
-          "subtitle": "Solar, Batterien, Wechselrichter"
-        },
-        "climate": {
-          "title": "Klimatisierung",
-          "subtitle": "Heizung, Kühlung, Belüftung"
-        },
-        "water": {
-          "title": "Wassersysteme",
-          "subtitle": "Sanitär, Pumpen, Tanks"
-        },
-        "mechanical": {
-          "title": "Mechanik",
-          "subtitle": "Motor, Getriebe, Bremsen"
-        }
+      "peace": {
+        "title": "Mehr Gelassenheit",
+        "description": "Vorfälle protokollieren, Servicehistorie speichern und stressfrei weiterreisen."
       }
-    },
-    "download": {
-      "badge": "Sehr Bald Verfügbar",
-      "title": "Bereit Loszufahren?",
-      "description": "CamperFix wird für iOS und Android verfügbar sein. Seien Sie unter den Ersten, die stressfreies Camping in ganz Europa erleben.",
-      "appStore": "App Store",
-      "googlePlay": "Google Play",
-      "waitlist": "Tragen Sie sich in unsere Warteliste ein und werden Sie bei der Markteinführung benachrichtigt"
     },
     "footer": {
-      "description": "Professioneller technischer Support für Camper, Wohnmobile und Caravans in ganz Europa.",
-      "legal": "Rechtliches",
-      "support": "Support",
-      "contact": "Kontakt",
-      "faq": "FAQ",
-      "copyright": "Alle Rechte vorbehalten. Mit ❤️ für europäische Camper gemacht."
+      "tagline": "CamperFix — technischer Support für Campervans, Wohnmobile und Caravans.",
+      "contact": "Du brauchst vorher Hilfe? hello@camperfix.com"
     }
-  }
   },
   "waitlist": {
     "placeholder": "E-Mail eingeben",
