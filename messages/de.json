@@ -6,46 +6,15 @@
     "support": "Support"
   },
   "comingSoon": {
-    "badge": "Demnächst",
-    "title": "Wir bauen CamperFix neu auf",
-    "subtitle": "Eine ruhigere, schnellere Support-Erfahrung für Camper in ganz Europa. Wir arbeiten fokussiert am neuen Release – trag dich ein und sei vom ersten Tag an dabei.",
-    "waitlistTitle": "Early-Access-Warteliste",
-    "waitlistNote": "Kein Spam, nur eine E-Mail, sobald die Beta bereit ist.",
-    "statusLabel": "Nächste Meilensteine",
-    "milestones": {
-      "alpha": {
-        "label": "Private Beta",
-        "date": "Januar 2025",
-        "detail": "Remote-Diagnosen mit einer kleinen Testflotte."
-      },
-      "beta": {
-        "label": "Founding Crews",
-        "date": "Februar 2025",
-        "detail": "Partner-Campingplätze und Service-Profis gehen live."
-      },
-      "launch": {
-        "label": "Öffentlicher Start",
-        "date": "Frühjahr 2025",
-        "detail": "24/7 mehrsprachiger Technikdesk für jede Reise."
-      }
-    },
-    "highlights": {
-      "experts": {
-        "title": "Fachliche Diagnose",
-        "description": "Live-Video und Schritt-für-Schritt-Anleitungen für Elektro-, Wasser- und Klimasysteme."
-      },
-      "coverage": {
-        "title": "Europaweite Abdeckung",
-        "description": "Mehrsprachige Spezialisten mit Wissen über lokale Vorschriften."
-      },
-      "peace": {
-        "title": "Mehr Gelassenheit",
-        "description": "Vorfälle protokollieren, Servicehistorie speichern und stressfrei weiterreisen."
-      }
-    },
+    "badge": "CamperFix",
+    "title": "Wir bereiten den Neustart vor",
+    "subtitle": "Die nächste Version steht kurz bevor. Trag deine E-Mail ein und wir melden uns genau dann, wenn wir wieder live gehen.",
+    "waitlistTitle": "Bleib informiert",
+    "waitlistNote": "Genau eine Nachricht zum Neustart – nicht mehr.",
+    "status": "Danke für deine Geduld. Wir sind bald zurück.",
     "footer": {
-      "tagline": "CamperFix — technischer Support für Campervans, Wohnmobile und Caravans.",
-      "contact": "Du brauchst vorher Hilfe? hello@camperfix.com"
+      "tagline": "CamperFix — Support für unterwegs.",
+      "contact": "Fragen? hello@camperfix.com"
     }
   },
   "waitlist": {

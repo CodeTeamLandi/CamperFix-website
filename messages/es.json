@@ -6,46 +6,15 @@
     "support": "Soporte"
   },
   "comingSoon": {
-    "badge": "Muy pronto",
-    "title": "Estamos reconstruyendo CamperFix",
-    "subtitle": "Una experiencia de soporte más serena y rápida para propietarios de campers en toda Europa. Estamos concentrados en la nueva versión: déjanos tu correo y viaja con nosotros desde el primer día.",
-    "waitlistTitle": "Lista de acceso anticipado",
-    "waitlistNote": "Nada de spam, solo un correo cuando la beta esté lista.",
-    "statusLabel": "Próximos hitos",
-    "milestones": {
-      "alpha": {
-        "label": "Beta privada",
-        "date": "Enero 2025",
-        "detail": "Diagnósticos remotos con un grupo reducido de testers."
-      },
-      "beta": {
-        "label": "Tripulaciones fundadoras",
-        "date": "Febrero 2025",
-        "detail": "Campings asociados y expertos de servicio en línea."
-      },
-      "launch": {
-        "label": "Lanzamiento público",
-        "date": "Primavera 2025",
-        "detail": "Mesa técnica 24/7 y multilingüe para cada viaje."
-      }
-    },
-    "highlights": {
-      "experts": {
-        "title": "Diagnóstico experto",
-        "description": "Videollamadas y guías paso a paso para sistemas eléctricos, de agua y clima."
-      },
-      "coverage": {
-        "title": "Cobertura europea",
-        "description": "Especialistas multilingües que conocen las normativas locales."
-      },
-      "peace": {
-        "title": "Tranquilidad total",
-        "description": "Registra incidencias, guarda el historial de servicio y mantén tus rutas sin estrés."
-      }
-    },
+    "badge": "CamperFix",
+    "title": "Muy pronto estaremos de vuelta",
+    "subtitle": "Estamos ultimando la siguiente versión. Déjanos tu correo y te avisaremos en cuanto abramos la puerta.",
+    "waitlistTitle": "Mantente al tanto",
+    "waitlistNote": "Solo un mensaje cuando volvamos a estar activos.",
+    "status": "Gracias por la paciencia. Falta muy poco.",
     "footer": {
-      "tagline": "CamperFix — soporte técnico para campers, autocaravanas y caravanas.",
-      "contact": "¿Necesitas algo antes? hello@camperfix.com"
+      "tagline": "CamperFix — soporte para la vida en ruta.",
+      "contact": "¿Necesitas escribirnos? hello@camperfix.com"
     }
   },
   "waitlist": {

@@ -6,46 +6,15 @@
     "support": "Support"
   },
   "comingSoon": {
-    "badge": "Bientôt disponible",
-    "title": "Nous reconstruisons CamperFix",
-    "subtitle": "Une expérience d’assistance plus fluide et plus rapide pour les propriétaires de camping-cars partout en Europe. Nous peaufinons la nouvelle version : laissez votre e-mail et embarquez dès le premier jour.",
-    "waitlistTitle": "Liste d’accès anticipé",
-    "waitlistNote": "Aucun spam, seulement un message quand la bêta est prête.",
-    "statusLabel": "Prochains jalons",
-    "milestones": {
-      "alpha": {
-        "label": "Bêta privée",
-        "date": "Janvier 2025",
-        "detail": "Diagnostics à distance avec un petit groupe de testeurs."
-      },
-      "beta": {
-        "label": "Équipes fondatrices",
-        "date": "Février 2025",
-        "detail": "Campings partenaires et experts service en ligne."
-      },
-      "launch": {
-        "label": "Lancement public",
-        "date": "Printemps 2025",
-        "detail": "Cellule technique 24/7 et multilingue pour chaque trajet."
-      }
-    },
-    "highlights": {
-      "experts": {
-        "title": "Diagnostics d’experts",
-        "description": "Appels vidéo et guides pas à pas pour l’électricité, l’eau et le climat."
-      },
-      "coverage": {
-        "title": "Couverture européenne",
-        "description": "Spécialistes multilingues qui maîtrisent les réglementations locales."
-      },
-      "peace": {
-        "title": "Esprit tranquille",
-        "description": "Consignez les incidents, gardez l’historique des interventions et voyagez serein."
-      }
-    },
+    "badge": "CamperFix",
+    "title": "Nous revenons très bientôt",
+    "subtitle": "Nous terminons la prochaine version. Laissez votre e-mail et nous vous préviendrons dès l'ouverture.",
+    "waitlistTitle": "Rester informé",
+    "waitlistNote": "Un seul message, uniquement pour le retour en ligne.",
+    "status": "Merci pour votre patience. À très vite.",
     "footer": {
-      "tagline": "CamperFix — assistance technique pour vans aménagés, camping-cars et caravanes.",
-      "contact": "Besoin d’aide avant ? hello@camperfix.com"
+      "tagline": "CamperFix — assistance pour la vie nomade.",
+      "contact": "Besoin de nous écrire ? hello@camperfix.com"
     }
   },
   "waitlist": {

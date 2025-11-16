@@ -6,46 +6,15 @@
     "support": "Support"
   },
   "comingSoon": {
-    "badge": "Coming soon",
-    "title": "We’re rebuilding CamperFix",
-    "subtitle": "A quieter, faster support experience for camper owners across Europe. We're heads-down on the new release—leave your email to travel with us from day one.",
-    "waitlistTitle": "Early access waitlist",
-    "waitlistNote": "No spam, just a single email when the beta is ready.",
-    "statusLabel": "Next milestones",
-    "milestones": {
-      "alpha": {
-        "label": "Private beta",
-        "date": "January 2025",
-        "detail": "Remote diagnostics with a small convoy of testers."
-      },
-      "beta": {
-        "label": "Founding crews onboard",
-        "date": "February 2025",
-        "detail": "Partner campsites and service experts go live."
-      },
-      "launch": {
-        "label": "Public launch",
-        "date": "Spring 2025",
-        "detail": "24/7 multilingual technical desk for every journey."
-      }
-    },
-    "highlights": {
-      "experts": {
-        "title": "Expert diagnostics",
-        "description": "Live video calls plus step-by-step guidance for electrical, water and climate systems."
-      },
-      "coverage": {
-        "title": "Europe-wide coverage",
-        "description": "Multilingual specialists who understand local regulations and brands."
-      },
-      "peace": {
-        "title": "Peace of mind",
-        "description": "Log incidents, save service history and keep every trip stress-free."
-      }
-    },
+    "badge": "CamperFix",
+    "title": "We're getting ready to relaunch",
+    "subtitle": "The next version is almost here. Leave your email and we'll let you know the moment it's live.",
+    "waitlistTitle": "Stay informed",
+    "waitlistNote": "Exactly one message when we reopen—no more, no less.",
+    "status": "Thanks for your patience. We'll be back shortly.",
     "footer": {
-      "tagline": "CamperFix — technical support for campervans, RVs and caravans.",
-      "contact": "Need something sooner? hello@camperfix.com"
+      "tagline": "CamperFix — support for life on the road.",
+      "contact": "Need to reach us? hello@camperfix.com"
     }
   },
   "waitlist": {
